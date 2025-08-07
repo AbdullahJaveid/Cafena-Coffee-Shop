@@ -80,13 +80,13 @@ Cafena-Coffee-Shop/
 
 1. ### Clone this repository:
 ```bash
-git clone https://github.com/yourusername/cafena-coffee-shop.git
+git clone https://github.com/AbdullahJaveid/Cafena-Coffee-Shop.git
 ```
 
 2. ### Navigate to the project folder:
 
 ```bash
-cd cafena-coffee-shop
+cd Cafena-Coffee-Shop
 ```
 
 3. ### Open in browser:
